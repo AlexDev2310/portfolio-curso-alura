@@ -1,5 +1,3 @@
-```
-
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio. Para ver o projeto final: https://portfolio-curso-alura-mu.vercel.app/
 
 ## Ferramentas utilizadas:
@@ -15,5 +13,3 @@
 ### Alexsandro Moreira
 
 ### Linkedin: https://www.linkedin.com/in/devalexsandromoreira7/
-
-```
