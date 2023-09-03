@@ -1,4 +1,6 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio. Para ver o projeto final: https://portfolio-curso-alura-mu.vercel.app/
+# Portfólio 
+Olá, Bem vindo ao meu projeto de portfólio.
+Para ver o projeto final: https://portfolio-curso-alura-mu.vercel.app/
 
 ## Ferramentas utilizadas:
 
